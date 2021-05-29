@@ -1,1 +1,1 @@
-# vanilla-javascript-demo
+# vanilla-javascript-es6-demo
